@@ -2,28 +2,22 @@
 
 ## Dependências:
 
-- Eureka Server
-- Spring Cloud Config
-- Spring Cloud Bootstrap
- 
+- Eureka Server 
 
 ## Anotações:
 
 - @EnableEurekaServer
 
-# Gateway Zuul
+# Gateway
 
 ## Dependências:
 
 - Eureka Discovery Client
-- Spring Cloud Starter Netflix Zuul
-- Spring Cloud Config
-- Spring Cloud Bootstrap
+- Gateway
 
 ## Anotações:
 
 - @EnableEurekaClient
-- @EnableZuulProxy
 
 # People Control
 
@@ -35,8 +29,6 @@
 - PostgreSQL Driver
 - Spring Data JPA
 - ModelMapper
-- Spring Cloud Config
-- Spring Cloud Bootstrap
 
 ## Anotações:
 
@@ -57,8 +49,6 @@
 - Spring Data JPA
 - Validation
 - ModelMapper
-- Spring Cloud Config
-- Spring Cloud Bootstrap
 
 ## Anotações:
 
