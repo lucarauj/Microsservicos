@@ -8,6 +8,8 @@
 
 - @EnableEurekaServer
 
+<br>
+
 # Gateway
 
 ## Dependências:
@@ -18,6 +20,8 @@
 ## Anotações:
 
 - @EnableEurekaClient
+
+<br>
 
 # People Control
 
@@ -37,6 +41,8 @@
 - @RestController
 - @RequestMapping
 - @EnableEurekaServer
+
+<br>
 
 # Animal Control
 
